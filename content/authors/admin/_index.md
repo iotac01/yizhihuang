@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yizhi Huang
+title: Yizhi Huang (黄轶之)
 
 # Is this the primary user of the site?
 superuser: true
@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: Undergraduate
-    institution: Institute for Interdisciplinary Information Sciences, Tsinghua University
+    institution: Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University
     year: 2019-2023
 #   - course: PhD in Artificial Intelligence
 #     institution: Stanford University
