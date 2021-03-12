@@ -73,7 +73,7 @@ email: ""
 highlight_name: false
 ---
 
-I'm an undergraduate at [Institute for Interdisciplinay Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University.
+I'm an undergraduate at [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University.
 
 Contact: huangyizhi01 at gmail dot com
 
